@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif">
 </p>
 
-I write code for a living and spend it all on Biryani. 
+I write code for a living and spend it all on biryani. 
 ***
 I maintain a love/hate relationship with JavaScript and like experimenting with new technologies. Apart from tech, I'm also fascinated with about the space and stars.
-I'm currently working on Headless APIs, and exploring cloud technologies.
+I'm currently working on Headless APIs, and exploring cloud tech.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=WForWatermelon.WForWatermelon)
 
